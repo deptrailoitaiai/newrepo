@@ -1,0 +1,12 @@
+{
+    "default": {
+        "0": "no error specified"
+    },
+    "signup-router":{
+        "100": "account already exsited cant create account"
+    },
+    "login-router": {
+        "101": "cant find account",
+        "102": "password incorrect"
+    }
+}
